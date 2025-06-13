@@ -6,7 +6,7 @@ This repository contains the full source code of the **Balaji Typing Services** 
 
 ## 🔗 Live Website
 
-👉 [Visit the live site here](https://balajitypingservices.in)
+👉 [Visit the live site here](https://balajitypingcenter.in/)
 
 ## 📄 Description
 
